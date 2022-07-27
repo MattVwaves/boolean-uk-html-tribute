@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(152, 69, 230);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    color: pink;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(246, 133, 133)
+    
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+    
+}
+
+p {
+    text-shadow: 10px, 10px, red;
+
+    line-height: 150%;
+    font-size: small;
+    color: rgb(246, 133, 133);
+    padding-left: 100px;
+    padding-right: 200px;
+    background-color: rgb(119, 38, 196)
+    
+}
+
+li {
+    color: rgb(255, 91, 91);
+    list-style-type: none;
+    background-color: rgb(119, 38, 196);
+}
+
+img {
+    padding-bottom: 20px;
+}
+
+a {
+    color:rgb(255, 157, 157)
+}
+
